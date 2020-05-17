@@ -7,6 +7,9 @@
 - Add new task
 - Mark task as completed / uncompleted
 - Delete task
+- Edit task
+- Delete completed tasks
+- Delete all tasks
 - Task saved
 
 ### **_Technologies used_**:
@@ -17,6 +20,4 @@
 
 ### **_Soon_** :
 
-- Edit task
-- Delete completed tasks
-- Delete all tasks
+- Responsive
